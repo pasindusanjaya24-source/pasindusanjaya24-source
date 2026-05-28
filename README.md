@@ -37,5 +37,5 @@ An enthusiastic Undergraduate Student at Eastern University, Sri Lanka, passiona
 
 ### 📈 Profile Views
 <p align="left">
-  <img src="https://komarev.com/ghvc/?username=pasindusanjaya24-source&label=Profile+Views&color=0078d4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/pasindusanjaya24-source/count.svg" alt="Profile Views" />
 </p>
