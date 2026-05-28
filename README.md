@@ -35,7 +35,4 @@ An enthusiastic Undergraduate Student at Eastern University, Sri Lanka, passiona
 
 ---
 
-### 📈 Profile Views
-<p align="left">
-  <img src="https://profile-counter.glitch.me/pasindusanjaya24-source/count.svg" alt="Profile Views" />
-</p>
+
