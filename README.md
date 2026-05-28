@@ -3,9 +3,8 @@
 An enthusiastic Undergraduate Student at Eastern University, Sri Lanka, passionate about programming, logic, and building clean, efficient software. Always eager to master core fundamentals and tackle new logic challenges!
 
 ---
-
 ### 💻 About Me
-- 🎓 **Education:** First-Year Computer Science Undergraduate at Eastern University, Sri Lanka.
+- 🎓 **Education:** Reading for **BSc in Computer Science** at Eastern University, Sri Lanka.
 - 🎯 **Focus:** Mastering advanced programming logic, data structures, and foundational core principles.
 - 🚀 **Current Activity:** Actively sharpening problem-solving skills on HackerRank with Python & Java.
 
