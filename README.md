@@ -30,6 +30,6 @@ An enthusiastic Undergraduate Student at Eastern University, Sri Lanka, passiona
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindusanjaya24-source&show_icons=true&theme=tokyonight" alt="Pasindu's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindusanjaya24-source&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pasindusanjaya24-source&show_icons=true&theme=tokyonight&version=2" alt="Pasindu's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindusanjaya24-source&theme=tokyonight&v=2" alt="GitHub Streak" height="150" />
 </p>
