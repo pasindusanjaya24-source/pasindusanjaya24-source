@@ -1,6 +1,6 @@
-# Hi there, I'm Pasindu Sanjaya! 👋
+Hi there, I'm Pasindu Sanjaya! 👋
 
-An enthusiastic Undergraduate Student at Eastern University, Sri Lanka, passionate about programming, logic, and building clean, efficient software. Always eager to master core fundamentals and tackle new logic challenges!
+An enthusiastic Computer Science Undergraduate at Eastern University, Sri Lanka, passionate about programming, logic, and building clean, efficient software. Always eager to master core fundamentals and tackle new logic challenges!
 
 ---
 ### 💻 About Me
