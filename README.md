@@ -1,7 +1,7 @@
 # Hi there, I'm Pasindu Sanjaya! 👋
 
 An enthusiastic Computer Science Undergraduate at Eastern University, Sri Lanka, passionate about programming, logic, and building clean, efficient software. Always eager to master core fundamentals and tackle new logic challenges!
-
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=pasindusanjaya24-source&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 ### 💻 About Me
 - 🎓 **Education:** Reading for **BSc in Computer Science** at Eastern University, Sri Lanka.
@@ -28,7 +28,7 @@ An enthusiastic Computer Science Undergraduate at Eastern University, Sri Lanka,
 ---
 
 ### 📊 GitHub Stats
-
+![Pasindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasindusanjaya24-source&show_icons=true&theme=tokyonight&count_private=true)
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pasindusanjaya24-source&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="Pasindu's Activity Graph" width="100%" />
 </p>
