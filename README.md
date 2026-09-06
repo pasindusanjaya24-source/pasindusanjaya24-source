@@ -14,7 +14,7 @@ An enthusiastic Computer Science Undergraduate at Eastern University, Sri Lanka,
 <!-- LANGUAGES -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,mysql,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,html,css,mongodb,express,react,nodejs,mysql" alt="Languages & Frameworks" />
   </a>
 </p>
 
